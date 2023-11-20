@@ -1,2 +1,2 @@
-# CS50_Assignments
-These are files for my assignments in CS50x
+# CS50-PSet
+These are files for my problem sets in CS50x
