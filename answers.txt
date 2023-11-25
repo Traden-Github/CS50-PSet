@@ -8,5 +8,5 @@ How do you know?: sorts the fastest when list is random
 
 sort3 uses: Selection sort
 
-How do you know?: sorts slowest whenlist is sorted
+How do you know?: sorts slowest when list is sorted
 
