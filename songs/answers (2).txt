@@ -1,0 +1,6 @@
+calculating the average energy, valence, and danceability
+
+data might not be accurate due to difference in the amount of times the songs are played in
+the top 100 list, a way to combat this is to multiply the calculations above by the amount
+of times the song was played, summing them up(which is the "weighted sum" of the list), and
+divide it by the total amount of times any song was played to get the "weighted average"
